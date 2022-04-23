@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to Styx Exploits
 
-You can use the [editor on GitHub](https://github.com/StyxWebsiteBuild/Styx-REAL-WEBSITE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Download Here](https://cdn.discordapp.com/attachments/941535917070503967/942478624072818718/SussySploit.rar) to Start Exploiting now!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to exploit, you agree to the TOS (terms of service) here ---> [Terms Of Service](https://styxwebsitebuild.github.io/TOS/) You must agree to exploit!
 
-### Markdown
+### What do we do?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+What do we do you ask?
 
-# Header 1
-## Header 2
-### Header 3
+# We help others code!
+## We donate to charity (sometimes)
+### We always Respect
 
-- Bulleted
-- List
+- Charity
+- Donating!
 
-1. Numbered
-2. List
+1. **WE WILL ALWAYS HELP ANYTIME!**
+2. Help you list!!
 
-**Bold** and _Italic_ and `Code` text
+**Have a great time exploiting!**
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see the [discord](https://discord.gg/yYYPJ5fu9Z).
 
-### Jekyll Themes
+### Other random things
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StyxWebsiteBuild/Styx-REAL-WEBSITE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you need anything else please check are discord or The github [github](https://styxwebsitebuild.github.io/Discord-and-github/). Have fun!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with The Executor? Check out our [documentation](https://styxwebsitebuild.github.io/documents/) or [contact support](https://discord.gg/yYYPJ5fu9Z) and we’ll help you sort it out.
+[HOPE YOU HAVE FUN EXPLOITING!](https://discord.gg/yYYPJ5fu9Z)
